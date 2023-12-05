@@ -14,4 +14,4 @@ class TestElements:
             assert email == output_email, "the email does not match"
             assert current_address == output_cur_addr, "the current_address does not match"
             assert permanent_address == output_per_addr, "the permanent_address does not match"
-            # Тест выливки
+            # Тест выливки 1
